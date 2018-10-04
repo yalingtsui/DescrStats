@@ -8,6 +8,7 @@ column with each row representing an observation.
 
 '''python
 import DescStats as ds
+
 ds.DescrStats('datafile.txt')
 '''
 
